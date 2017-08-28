@@ -39,7 +39,7 @@ Camion possédant 4 roues :
 
 ### Liste des pièces
 
-**_To be filled
+**_To be filled_**
 
 ### Réalisation du code
 
@@ -53,4 +53,4 @@ Camion possédant 4 roues :
 
 ### Réalisatiçon mécanique
 
-**_To be filled
+**_To be filled_**

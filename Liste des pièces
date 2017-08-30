@@ -1,0 +1,48 @@
+Le simulateur :
+
+Pièces basiques et low-cost pour être sûr de la faisabilité du projet
+
+1 Carte Arduino Uno (pour le côté Arduino)
+https://fr.aliexpress.com/item/Free-shipping-high-quality-UNO-R3-MEGA328P-CH340G-for-Arduino-Compatible-NO-USB-CABLE/32522378826.html
+
+1 carte Arduino Nano (pour le bluetooth ou nRF)
+https://fr.aliexpress.com/item/NANO-3-0-controlador-compatible-con-arduino-NANO-CH340-turno-USB-controlador-ninguna-CABLE-V3-0/32574307428.html
+
+1 carte nodeMCU (wifi)
+https://fr.aliexpress.com/item/V3-Wireless-module-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266-esp/32647542733.html
+
+Un buzzer
+https://fr.aliexpress.com/item/Acs712-load-cell-cx-31-vw-Hc-sr501-Passive-Buzzer-Module-For-arduino-car-liquidificador-ultrasonic/32720786204.html
+
+Cables Dupont
+https://fr.aliexpress.com/item/Free-shipping-Dupont-line-120pcs-20cm-male-to-male-male-to-female-and-female-to-female/32711718530.html
+
+2 moteurs DC
+https://fr.aliexpress.com/item/2016-New-DC3-12V-Large-Torque-Motor-Super-model-with-High-Speed-Motor-New-Arrival-Rated/32691454070.html
+
+1 Pont en H
+https://fr.aliexpress.com/item/Free-shipping-1pcs-lot-Special-promotions-2pcs-lot-L298N-motor-driver-board-module-stepper-motor-smart/1872427142.html
+
+1 Servomoteur
+https://fr.aliexpress.com/item/1pc-Servo-MG995-Gear-High-Metal-Speed-Torque-For-RC-Helicopter-Car-Airplane-Hot/32752564770.html
+
+1 Batterie pour moteurs
+Pile 9V (ou pas faut encore que je calcule 2-3 trucs)
+
+1 Batterie pour l'Arduino
+Pile 6V (pour le servomoteur)
+
+4 Roues
+https://fr.aliexpress.com/item/Free-Shipping-New-4PCS-Set-Rubber-RC-Racing-Tires-Car-On-Road-Wheel-Rim-Fit-For/1936195535.html
+
+
+
+
+Télécommande (nRF)
+
+1 joystick
+https://fr.aliexpress.com/item/Free-Shipping-JoyStick-Breakout-Module-Shield-for-PS2-Joystick-Game-Controller-For-Arduino-Hot-Worldwide/32344305302.html
+
+2 modules nRF
+https://fr.aliexpress.com/item/1sets-Special-promotions-1100-meter-long-distance-NRF24L01-PA-LNA-wireless-modules-with-antenna/32341792715.html
+
